@@ -1,3 +1,10 @@
+## Installing
+* `fork` this repo
+* `clone` your fork
+* `npm install webpack-dev-server rimraf webpack -g` to install required global dependencies
+* `npm install` to install all dependencies or `yarn`
+* `npm run server` to start the dev server in another tab
+
 <p align="center">
   <a href="http://courses.angularclass.com/courses/angular-2-fundamentals?utm_source=github-angular2-webpack-starter&utm_medium=open-source&utm_campaign=webpackstarter" target="_blank">
     <img width="438" alt="Angular 2 Fundamentals" src="https://cloud.githubusercontent.com/assets/1016365/17200649/085798c6-543c-11e6-8ad0-2484f0641624.png">
